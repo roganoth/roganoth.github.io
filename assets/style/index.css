@@ -11,3 +11,26 @@
   width: 50%;
   float: right;
 } */
+
+.projectNames {
+  color: black;
+}
+
+#ffImg {
+  float: right;
+  margin-top: 20px;
+}
+
+#hrAppImg {
+  float: right;
+  height: 100px;
+  margin-top: 20px;
+}
+
+/* #projectBoxRight {
+  width: 40%;
+  float: right;
+}
+#projectBox {
+  width: 40%;
+} */
